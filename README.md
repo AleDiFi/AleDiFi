@@ -1,4 +1,3 @@
-#Welcome 
 ![WelcomeGifGitHub](https://github.com/user-attachments/assets/4423f942-635d-4e77-838a-611c46dc6ac3)
 
 ## Hi there 👋
