@@ -1,9 +1,10 @@
-#Welcome ![](https://github.com/AleDiFi/WelcomeGifGitHub.gif)
+##Welcome 
+![](https://github.com/AleDiFi/WelcomeGifGitHub.gif)
 
-# Hi there 👋
+## Hi there 👋
 I'm Alessandro Di Filippo, computer engineer and informatic enthusiast! 🖥️ I'm currently studying at UCBM MSc Artificial Intelligence and Systems engineering | I'm currently learning Game Development with Unity and Data Analysis |
 
-# 📫How to reach me:
+## 📫How to reach me:
   - Email: alessandrodifilippo98@gmail.com
   - Linkedin: www.linkedin.com/in/alessandro-di-filippo-a850931a8
 
