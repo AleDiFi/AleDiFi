@@ -1,4 +1,4 @@
-![](https://github.com/AleDiFi/stock-footage-pixel-art-mountain-at-night-with-falling-stars-background-animation-grassy-ground-with-a-backdrop (1).mp4)
+![](https://github.com/AleDiFi/WelcomeGifGitHub.gif)
 
 ## Hi there 👋
 I'm Alessandro Di Filippo, computer engineer and informatic enthusiast! 🖥️ I'm currently studying at UCBM MSc Artificial Intelligence and Systems engineering | I'm currently learning Game Development with Unity and Data Analysis |
