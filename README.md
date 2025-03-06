@@ -1,7 +1,7 @@
 ![WelcomeGifGitHub](https://github.com/user-attachments/assets/4423f942-635d-4e77-838a-611c46dc6ac3)
 
 ## Hi there 👋
-I'm Alessandro Di Filippo, computer engineer and informatic enthusiast! 🖥️ I'm currently studying at UCBM MSc Artificial Intelligence and Systems engineering | I'm currently learning Game Development with Unity and Data Analysis |
+I'm Alessandro Di Filippo, computer engineer and informatic enthusiast! 🖥️ I'm currently studying at UCBM MSc Artificial Intelligence and Systems engineering 🤖 I'm currently learning Game Development with Unity and Data Analysis 💡
 
 ## 📫How to reach me:
   - Email: alessandrodifilippo98@gmail.com
