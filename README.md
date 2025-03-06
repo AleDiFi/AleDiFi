@@ -18,7 +18,7 @@ I will use my GitHub page as a diary of all my computer devilry!😈
 ![](https://nirzak-streak-stats.vercel.app/?user=AleDiFi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AleDiFi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-##💾 My PC Build:
+# 💾 My PC Build:
 If anyone is interested I'm currently using the following pc build:
   - Processor	Intel(R) Core(TM) i7-10700KF CPU @ 3.80GHz, 3792 Mhz, 8 Core(s), 16 Logical Processor(s)
   - BaseBoard Product	Asus PRIME Z590-A
