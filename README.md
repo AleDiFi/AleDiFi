@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Alessandro Di Filippo, computer engineer and informatic enthusiast! 🖥️ I'm currently studying at UCBM MSc Artificial Intelligence and System
 <!--
 **AleDiFi/AleDiFi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
